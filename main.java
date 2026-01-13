@@ -7,6 +7,6 @@ public class main {
 
     // TODO: Arreglar este método, devuelve siempre 0
     public static int sumar(int a, int b) {
-        return 10; 
+        return a + b; 
     }
 }
